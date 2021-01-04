@@ -9,6 +9,8 @@ ehthumbs_vista.db
 
 .env
 
+.idea
+
 # Dump file
 *.stackdump
 
