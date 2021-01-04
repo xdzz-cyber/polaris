@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a4653739-0d36-46a7-a1cd-eea16a4f62a6" name="firstBigProject" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\bogda\Downloads\OpenServer\domains\localhost" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

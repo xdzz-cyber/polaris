@@ -1,0 +1,8 @@
+{
+    "require": {
+        "google/apiclient": "^2.7",
+      "ext-mongodb": "*",
+      "ext-json": "*",
+        "vlucas/phpdotenv": "^5.2"
+    }
+}
